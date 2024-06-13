@@ -1,9 +1,11 @@
-mkdir nodejs-html-sample
-cd nodejs-html-sample
+Run Command
+$mkdir nodejs-html-sample
+$cd nodejs-html-sample
 
-npm init -y
+$npm init -y
 
 add file: server.js
 add file: index.html
 
-run cmd : node server.js
+Run command 
+$node server.js
